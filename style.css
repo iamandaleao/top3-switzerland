@@ -1,4 +1,5 @@
 body {
+  background: #fff1d6;
   font-family:'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
   line-height: 1.6;
 }
@@ -6,4 +7,26 @@ body {
 .container{
   margin: 0 auto;
   width: 960px;
+}
+
+.place {
+  background-color: #fff;
+  border-color: #ccc #999 #999 #ccc;
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.place h2 {
+  border-bottom: 1px dashed #7e9f19;
+  margin: 0;
+}
+
+.place a {
+  color: #2c88a7;
+  font-weight: bold;
+}
+h1 a {
+  color: #7e9f19;
+  text-decoration: none;
 }
