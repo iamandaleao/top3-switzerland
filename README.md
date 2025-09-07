@@ -46,7 +46,7 @@ Este projeto foi inspirado no livro **"HTML5 e CSS3: Domine a web do futuro"**, 
 Sugestões e feedbacks são sempre bem-vindos!
 
 <div align="center">
-  Desenvolvido com ❤️ <a href="https://www.linkedin.com/in/iamandaleao/" target="_blank">Amanda Leão</a>
+  Desenvolvido com ❤️ por <a href="https://www.linkedin.com/in/iamandaleao/" target="_blank">Amanda Leão</a>
 </div>
 
 
