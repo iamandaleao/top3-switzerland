@@ -41,8 +41,12 @@ O projeto utiliza uma paleta suave com fundo texturizado, imagens com bordas des
 
 Este projeto foi inspirado no livro **"HTML5 e CSS3: Domine a web do futuro"**, utilizado como material de apoio nos estudos.
 
-<div style="text-align: center;">
-  Feito com ❤️ <a href="https://www.linkedin.com/in/iamandaleao/" target="_blank">Amanda Leão</a>
+## 🤝 Contribuições
+
+Sugestões e feedbacks são sempre bem-vindos!
+
+<div align="center">
+  Desenvolvido com ❤️ <a href="https://www.linkedin.com/in/iamandaleao/" target="_blank">Amanda Leão</a>
 </div>
 
 
