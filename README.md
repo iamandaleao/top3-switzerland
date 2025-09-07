@@ -2,6 +2,10 @@
 # 🌄 Suíça: 3 Destinos Imperdíveis
 
 Este projeto foi criado por iniciativa pessoal, como parte dos estudos em desenvolvimento web. Surgiu como uma forma prática de aplicar os conhecimentos adquiridos durante a leitura do livro **"HTML5 e CSS3: Domine a web do futuro"**.
+<p align="center">
+  <img src="images/pagina-suica.png" alt="código e print da tela" width="700">
+</p>
+
 
 ## Objetivo
 
